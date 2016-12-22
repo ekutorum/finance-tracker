@@ -1,5 +1,1 @@
-This is finance-tracker app, made for the 'Complete Ruby on Rails Course'.
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This is finance-tracker app, made for the 'Complete Ruby on Rails Course' by <tt>Hector Morales</tt>.
